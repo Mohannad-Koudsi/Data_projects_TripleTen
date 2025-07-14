@@ -51,6 +51,13 @@ Build a conversion funnel and perform a cohort analysis to:
 - Funnel performance metrics
 - Summary of assumptions and methodology
 
+---
+
+## 🔗 Cohort Retention Rate Project Link
+*https://docs.google.com/spreadsheets/d/1joX1OplKcvF4GcA1_Ih-jTiMwNcKntT2tnI399fMccI/edit?usp=sharing*
+
+---
+
 ## 🧠 Skills Demonstrated
 - Spreadsheet modeling
 - Cohort & funnel analysis
