@@ -63,7 +63,7 @@ Use Tableau to:
 
 ## 💾 Files Included
 Recording of the presentation
-🎥 [Watch Project Presentation](./Project%20presentation%201.mp4)
+🎥 [Download Project Presentation](./Project%20presentation%201.mp4)
 
 ---
 
