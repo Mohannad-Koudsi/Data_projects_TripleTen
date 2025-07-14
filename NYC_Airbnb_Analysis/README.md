@@ -45,6 +45,14 @@ Using number of reviews in the last 12 months as a proxy for popularity:
 - Pivot table: Size popularity
 - Revenue ranking of top listings
 
+---
+
+## 🔗 NYC Airbnb Project Link
+*https://docs.google.com/spreadsheets/d/1Ih7KskOSyBMOrEWqeSA3XmEOJGftDgd452jXq1__tVQ/edit?usp=sharing*
+
+---
+
+
 ## ✅ Skills Demonstrated
 - Spreadsheet-based data cleaning
 - Pivot table mastery
